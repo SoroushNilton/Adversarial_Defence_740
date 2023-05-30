@@ -1,0 +1,71 @@
+Dataset: cifar10, Normal Label: 0
+Files already downloaded and verified
+Training Epoch : 0, Loss: 0.690755: 100% 157/157 [04:48<00:00,  1.84s/it]
+====================================================================================================
+Training Epoch : 1, Loss: 0.662317: 100% 157/157 [04:49<00:00,  1.84s/it]
+====================================================================================================
+Training Epoch : 2, Loss: 0.637310: 100% 157/157 [04:49<00:00,  1.84s/it]
+====================================================================================================
+Training Epoch : 3, Loss: 0.615397: 100% 157/157 [04:49<00:00,  1.84s/it]
+====================================================================================================
+Training Epoch : 4, Loss: 0.594417: 100% 157/157 [04:48<00:00,  1.84s/it]
+====================================================================================================
+Training Epoch : 5, Loss: 0.575092: 100% 157/157 [04:50<00:00,  1.85s/it]
+====================================================================================================
+Training Epoch : 6, Loss: 0.556503: 100% 157/157 [04:49<00:00,  1.85s/it]
+====================================================================================================
+Training Epoch : 7, Loss: 0.538537: 100% 157/157 [04:50<00:00,  1.85s/it]
+====================================================================================================
+Training Epoch : 8, Loss: 0.521780: 100% 157/157 [04:48<00:00,  1.84s/it]
+====================================================================================================
+Training Epoch : 9, Loss: 0.505078: 100% 157/157 [04:49<00:00,  1.85s/it]
+====================================================================================================
+Saving model
+Files already downloaded and verified
+Extract training feature space
+Feature Extraction: 100% 79/79 [01:03<00:00,  1.24it/s]
+Evaluate on the One-vs-All setting:
+Files already downloaded and verified
+Feature Extraction: 100% 157/157 [02:07<00:00,  1.23it/s]
+AUROC on the One-vs-All setting is: 0.9361726666666668
+Evaluate on the One-vs-One setting:
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 0 is: 0.98086
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 1 is: 0.97094
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 2 is: 0.9774400000000001
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 3 is: 0.97877
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 4 is: 0.98224
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 5 is: 0.95771
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 6 is: 0.963
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 7 is: 0.98662
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 8 is: 0.95035
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 9 is: 0.9722599999999999

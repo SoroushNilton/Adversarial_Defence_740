@@ -1,0 +1,431 @@
+Dataset: cifar100, Normal Label: 0
+Files already downloaded and verified
+Training Epoch : 0, Loss: 0.703818: 100% 79/79 [02:22<00:00,  1.80s/it]
+====================================================================================================
+Training Epoch : 1, Loss: 0.694949: 100% 79/79 [02:24<00:00,  1.83s/it]
+====================================================================================================
+Training Epoch : 2, Loss: 0.686614: 100% 79/79 [02:24<00:00,  1.83s/it]
+====================================================================================================
+Training Epoch : 3, Loss: 0.677687: 100% 79/79 [02:24<00:00,  1.83s/it]
+====================================================================================================
+Training Epoch : 4, Loss: 0.668515: 100% 79/79 [02:24<00:00,  1.83s/it]
+====================================================================================================
+Training Epoch : 5, Loss: 0.661143: 100% 79/79 [02:24<00:00,  1.83s/it]
+====================================================================================================
+Training Epoch : 6, Loss: 0.653617: 100% 79/79 [02:24<00:00,  1.82s/it]
+====================================================================================================
+Training Epoch : 7, Loss: 0.646464: 100% 79/79 [02:24<00:00,  1.83s/it]
+====================================================================================================
+Training Epoch : 8, Loss: 0.638759: 100% 79/79 [02:24<00:00,  1.83s/it]
+====================================================================================================
+Training Epoch : 9, Loss: 0.631678: 100% 79/79 [02:24<00:00,  1.83s/it]
+====================================================================================================
+Saving model
+Files already downloaded and verified
+Extract training feature space
+Feature Extraction: 100% 40/40 [00:31<00:00,  1.25it/s]
+Evaluate on the One-vs-All setting:
+Files already downloaded and verified
+Feature Extraction: 100% 157/157 [02:07<00:00,  1.23it/s]
+AUROC on the One-vs-All setting is: 0.8741465263157895
+Evaluate on the One-vs-One setting:
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:13<00:00,  1.29it/s]
+AUROC on the One-vs-One setting for the anomaly class 0 is: 0.7735699999999999
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 1 is: 0.4911
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 2 is: 0.56694
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 3 is: 0.25065000000000004
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 4 is: 0.19399999999999998
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 5 is: 0.56005
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 6 is: 0.58929
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:13<00:00,  1.29it/s]
+AUROC on the One-vs-One setting for the anomaly class 7 is: 0.7730699999999999
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 8 is: 0.63444
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 9 is: 0.68271
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 10 is: 0.80879
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 11 is: 0.58726
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 12 is: 0.65867
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 13 is: 0.64377
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 14 is: 0.74132
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 15 is: 0.26003
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 16 is: 0.77549
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 17 is: 0.68404
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 18 is: 0.8351
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 19 is: 0.4236
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:13<00:00,  1.29it/s]
+AUROC on the One-vs-One setting for the anomaly class 20 is: 0.62585
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 21 is: 0.27132999999999996
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 22 is: 0.77322
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 23 is: 0.26808
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 24 is: 0.69334
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 25 is: 0.5820000000000001
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 26 is: 0.79657
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 27 is: 0.5105200000000001
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 28 is: 0.67769
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 29 is: 0.68234
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 30 is: 0.050390000000000004
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 31 is: 0.43986000000000003
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 32 is: 0.7565500000000001
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 33 is: 0.46179000000000003
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 34 is: 0.19499
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 35 is: 0.56219
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 36 is: 0.20563
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 37 is: 0.5297000000000001
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 38 is: 0.295535
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 39 is: 0.4549099999999999
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 40 is: 0.64739
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 41 is: 0.58714
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 42 is: 0.4729
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 43 is: 0.48969
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 44 is: 0.73986
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 45 is: 0.7276400000000001
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 46 is: 0.4346
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 47 is: 0.42002
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 48 is: 0.6676200000000001
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 49 is: 0.35547
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 50 is: 0.245
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 51 is: 0.68658
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 52 is: 0.23697
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 53 is: 0.722645
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 54 is: 0.7601100000000001
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 55 is: 0.21705000000000002
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 56 is: 0.43749000000000005
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 57 is: 0.83427
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 58 is: 0.67699
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 59 is: 0.35094000000000003
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 60 is: 0.50939
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 61 is: 0.83881
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 62 is: 0.78761
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 63 is: 0.4389200000000001
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 64 is: 0.45433
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 65 is: 0.29036
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 66 is: 0.51349
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 67 is: 0.37977999999999995
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 68 is: 0.58402
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 69 is: 0.36985500000000004
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 70 is: 0.8587
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 71 is: 0.29869999999999997
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 72 is: 0.16155999999999998
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 73 is: 0.12535
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 74 is: 0.39735999999999994
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 75 is: 0.54904
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 76 is: 0.70865
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 77 is: 0.6465799999999999
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 78 is: 0.7642
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 79 is: 0.7471
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 80 is: 0.31442000000000003
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 81 is: 0.56436
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 82 is: 0.585735
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 83 is: 0.6486799999999999
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 84 is: 0.58975
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 85 is: 0.66293
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 86 is: 0.66789
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 87 is: 0.56632
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 88 is: 0.45646000000000003
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 89 is: 0.63967
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 90 is: 0.53732
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 91 is: 0.6886000000000001
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 92 is: 0.8665799999999999
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 93 is: 0.38132999999999995
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 94 is: 0.53018
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 95 is: 0.06865
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 96 is: 0.4212
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 97 is: 0.53135
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.27it/s]
+AUROC on the One-vs-One setting for the anomaly class 98 is: 0.5724
+Files already downloaded and verified
+Files already downloaded and verified
+Feature Extraction: 100% 18/18 [00:14<00:00,  1.28it/s]
+AUROC on the One-vs-One setting for the anomaly class 99 is: 0.78275

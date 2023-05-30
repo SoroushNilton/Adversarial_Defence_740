@@ -1,0 +1,29 @@
+Files already downloaded and verified
+setting parameters for standard version
+using standard version including apgd-ce, apgd-t, fab-t, square.
+initial accuracy: 87.54%
+apgd-ce - 1/9 - 520 out of 1024 successfully perturbed
+apgd-ce - 2/9 - 519 out of 1024 successfully perturbed
+apgd-ce - 3/9 - 487 out of 1024 successfully perturbed
+apgd-ce - 4/9 - 482 out of 1024 successfully perturbed
+apgd-ce - 5/9 - 549 out of 1024 successfully perturbed
+apgd-ce - 6/9 - 499 out of 1024 successfully perturbed
+apgd-ce - 7/9 - 515 out of 1024 successfully perturbed
+apgd-ce - 8/9 - 527 out of 1024 successfully perturbed
+apgd-ce - 9/9 - 302 out of 562 successfully perturbed
+robust accuracy after APGD-CE: 43.54% (total time 211.3 s)
+apgd-t - 1/5 - 1 out of 1024 successfully perturbed
+apgd-t - 2/5 - 0 out of 1024 successfully perturbed
+apgd-t - 3/5 - 5 out of 1024 successfully perturbed
+apgd-t - 4/5 - 1 out of 1024 successfully perturbed
+apgd-t - 5/5 - 0 out of 258 successfully perturbed
+robust accuracy after APGD-T: 43.47% (total time 1184.0 s)
+fab-t - 1/5 - 0 out of 1024 successfully perturbed
+fab-t - 2/5 - 0 out of 1024 successfully perturbed
+fab-t - 3/5 - 0 out of 1024 successfully perturbed
+fab-t - 4/5 - 0 out of 1024 successfully perturbed
+fab-t - 5/5 - 0 out of 251 successfully perturbed
+robust accuracy after FAB-T: 43.47% (total time 3081.4 s)
+square - 1/5 - 0 out of 1024 successfully perturbed
+square - 2/5 - 0 out of 1024 successfully perturbed
+square - 3/5 - 1 out of 1024 successfully perturbed

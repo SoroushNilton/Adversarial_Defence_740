@@ -1,0 +1,21 @@
+Files already downloaded and verified
+setting parameters for standard version
+using standard version including apgd-ce, apgd-t, fab-t, square.
+initial accuracy: 87.34%
+apgd-ce - 1/9 - 537 out of 1024 successfully perturbed
+apgd-ce - 2/9 - 541 out of 1024 successfully perturbed
+apgd-ce - 3/9 - 506 out of 1024 successfully perturbed
+apgd-ce - 4/9 - 505 out of 1024 successfully perturbed
+apgd-ce - 5/9 - 557 out of 1024 successfully perturbed
+apgd-ce - 6/9 - 539 out of 1024 successfully perturbed
+apgd-ce - 7/9 - 535 out of 1024 successfully perturbed
+apgd-ce - 8/9 - 552 out of 1024 successfully perturbed
+apgd-ce - 9/9 - 283 out of 542 successfully perturbed
+robust accuracy after APGD-CE: 41.79% (total time 212.3 s)
+apgd-t - 1/5 - 3 out of 1024 successfully perturbed
+apgd-t - 2/5 - 2 out of 1024 successfully perturbed
+apgd-t - 3/5 - 2 out of 1024 successfully perturbed
+apgd-t - 4/5 - 1 out of 1024 successfully perturbed
+apgd-t - 5/5 - 0 out of 83 successfully perturbed
+robust accuracy after APGD-T: 41.71% (total time 1151.8 s)
+fab-t - 1/5 - 0 out of 1024 successfully perturbed
